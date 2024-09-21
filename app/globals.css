@@ -40,3 +40,24 @@ a {
     color-scheme: dark;
   }
 }
+
+.slider1 {
+  background: #880808;
+  background-image: url(../app/assets/top-1.png),
+    url(../app/assets/bottom-1.png);
+}
+.slider2 {
+  background: #0a4669;
+  background-image: url(../app/assets/top-2.png),
+    url(../app/assets/bottom-2.png);
+}
+.slider3 {
+  background: #953553;
+  background-image: url(../app/assets/top-3.png),
+    url(../app/assets/bottom-3.png);
+}
+.slider4 {
+  background: #066;
+  background-image: url(../app/assets/top-4.png),
+    url(../app/assets/bottom-4.png);
+}
